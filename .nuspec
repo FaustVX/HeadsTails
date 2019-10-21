@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>HeadsTails</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <authors>FaustVX</authors>
         <projectUrl>https://github.com/FaustVX/HeadsTails</projectUrl>
         <description>A .Net Library which split Heads and Tails of Array/Span/Memory/...</description>
         <dependencies>
-            <group targetFramework=".NETStandard2.0" />
+            <group targetFramework=".NETStandard2.1" />
         </dependencies>
     </metadata>
 </package>
